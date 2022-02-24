@@ -1,0 +1,310 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Queen, at White-Hall, March 11th, 1691/2 by R. Meggott ...</title>
+            <author>Meggott, Richard, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50555</idno>
+            <idno type="STC">Wing M1632</idno>
+            <idno type="STC">ESTC R851</idno>
+            <idno type="EEBO-CITATION">12770188</idno>
+            <idno type="OCLC">ocm 12770188</idno>
+            <idno type="VID">93641</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50555)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93641)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 698:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Queen, at White-Hall, March 11th, 1691/2 by R. Meggott ...</title>
+                  <author>Meggott, Richard, d. 1692.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: Dr. Meggott's sermon before the Queen at White-Hall, March 11th, 1691/2.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew III, 8 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93641:1"/>
+            <pb facs="tcp:93641:1"/>
+            <p>A SERMON Preached before the QUEEN, AT WHITE-HALL, <hi>MARCH</hi> 11<hi rend="sup">th.</hi> 1691/2.</p>
+            <p>By <hi>R. Meggott,</hi> D. D. Dean of <hi>Wincheſter,</hi> And Chaplain to Their Majeſties.</p>
+            <p>
+               <hi>Publiſhed by Her Majeſties Special Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Tho. Bennet,</hi> at the <hi>Half-Moon</hi> in St. <hi>Paul</hi>'s Church-yard. MDCXCII.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:93641:2" rendition="simple:additions"/>
+            <p>Dr. <hi>MEGGOTT</hi>'s SERMON Before the QUEEN, AT WHITE-HALL, <hi>March</hi> 11<hi rend="sup">th.</hi> 1691/2.</p>
+            <pb facs="tcp:93641:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:93641:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:93641:4"/>
+            <pb n="1" facs="tcp:93641:4"/>
+            <head>
+               <hi>St. Matth. III. viii.</hi> Bring forth therefore fruits meet for Repentance.</head>
+            <p>WHEN <hi>one Preacher of Repen<g ref="char:EOLhyphen"/>tance</hi> could work ſo far upon <hi>Jews,</hi> that there <hi>went out to him Jeruſalem, and all Judea, and all the region round about Jordan, and were baptized of him, confeſſing their ſins,</hi> as we read Ver. 5th. and 6th. of this Chapter; I am not willing to ſuppoſe that ſo <hi>many</hi> as from time to time have come to <hi>you</hi> upon the <hi>ſame</hi> Errand ſhould have prevailed nothing. God forbid that ſo many earneſt Exhortations ſhould have been in vain to you! God forbid that any here ſhould have ſo much to anſwer for! By your preſence in this place, <hi>it is meet for me to think this of you all,</hi> That at leaſt you do not come
+<pb n="2" facs="tcp:93641:5"/>ſhort of theſe: My Deſign is to inform you that theſe came ſhort of their Duty, and that every ſinner who would make his Peace with God muſt exceed them.</p>
+            <p>As there is <hi>Science falſly ſo called,</hi> ſo there is <hi>Repentance</hi> too; and it is not to be doubted but that more periſh by <hi>Repenting amiſs,</hi> than do by not <hi>Repenting at all.</hi> Few ſo ſeared, but after one ſort or another do ſomething that they call ſo; and yet tho' the number of <hi>ſuch Penitents</hi> be <hi>as the ſand upon the Sea-ſhore,</hi> but <hi>a remnant of them ſhall be ſaved:</hi> no more, than thoſe of them who to their <hi>Repentance</hi> add <hi>Amendment.</hi>
+            </p>
+            <p>If any thing leſs would have ſerved, theſe ſpoken to in the Text would not have been found fault with. They had the <hi>looks</hi> of <hi>Pe<g ref="char:EOLhyphen"/>nitents,</hi> they ſpake the <hi>Language</hi> of <hi>Penitents,</hi> they wore the <hi>Garments</hi> of <hi>Penitents,</hi> they uſed the <hi>Diet</hi> of <hi>Penitents:</hi> But when there was nothing <hi>more,</hi> all this <hi>commended them not to God,</hi> but is cenſured by the <hi>Baptiſt</hi> as the Ceremonious <hi>Sacrifice of Fools,</hi> as the Vain<g ref="char:EOLhyphen"/>glorious <hi>neglect of the Body;</hi> and they <hi>warned,</hi> as they would <hi>fly from the wrath to come,</hi> not to abuſe themſelves with ſuch deceitful Fan<g ref="char:EOLhyphen"/>cies; given to underſtand that <hi>Repentance
+<pb n="3" facs="tcp:93641:5"/>ſtrictly</hi> taken, if it be <hi>true,</hi> hath <hi>no promiſe</hi> but as it is productive of a <hi>change of Life.</hi> And upon that account, with a Conſcientious <hi>plain<g ref="char:EOLhyphen"/>neſs, vehemence,</hi> and <hi>ſharpneſs</hi> he here preſſeth them, That they would <hi>bring forth fruits meet for Repentance.</hi>
+            </p>
+            <p>That the reaſon of this Exhortation may appear the clearer, I would deſire your At<g ref="char:EOLhyphen"/>tention to the opening theſe three things:</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/>
+                  <hi>First,</hi> That a <hi>bare Repentance</hi> without <hi>Fruits</hi> is not all that is required of us in order to our Pardon.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> 2dly, That we may bring forth ſeveral <hi>fruits of Repentance,</hi> and yet not thoſe <hi>that are meet</hi> neither.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> 3dly, That as we would have our Repen<g ref="char:EOLhyphen"/>tance accepted, we muſt not content our ſelves with any <hi>fruits,</hi> but ſuch as properly mani<g ref="char:EOLhyphen"/>feſt the Sincerity and Ingenuity of it.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The firſt of theſe Particulars I would ſpeak to, is, That a bare <hi>Repentance</hi> without <hi>fruits</hi> is not all that is required of us in order to our Pardon. So the <hi>Baptiſt</hi> plainly implieth here. But is this like a <hi>fore-runner of Chriſt?</hi> This ſeemeth not ſo much to <hi>prepare,</hi> as <hi>con<g ref="char:EOLhyphen"/>tradict
+<pb n="4" facs="tcp:93641:6"/>the way of the Lord.</hi> His Command is, that <hi>Repentance and Remiſſion of ſins ſhould be preached in his Name.</hi> And is not this to <hi>put aſunder</hi> that which he hath <hi>joyned together?</hi> Seemingly it doth ſo.</p>
+            <p>But if we conſider the <hi>different acceptations</hi> of this word in Scripture, we ſhall find no cauſe to be offended. One doth not <hi>deſtroy,</hi> what the other <hi>buildeth;</hi> they both mean the ſame thing.</p>
+            <p>For the moſt part <hi>Repentance</hi> is uſed in ſo comprehenſive a ſenſe, as to note both the <hi>Tree</hi> and the <hi>Fruit</hi> too. Accordingly St. <hi>Paul,</hi> when he ſummeth up the <hi>whole Duty</hi> of a Chriſtian, reduceth it to theſe two Heads, <hi>Acts</hi> 10.21. <hi>Repentance toward God, and Faith toward our Lord Jeſus Chriſt.</hi> Where <hi>Faith</hi> being only a <hi>believing the Articles</hi> of our Religion, <hi>Repentance</hi> muſt include in it all the reſt, our <hi>conformity to all its Precepts.</hi> And if we will underſtand it thus, too much cannot be ſaid of it. So, it is the Evangeli<g ref="char:EOLhyphen"/>cal <hi>City of Refuge,</hi> the undoubted <hi>Heir of the Promiſe.</hi>
+            </p>
+            <p>But if we take Repentance for no more, than ſometimes is meant by it, for that parti<g ref="char:EOLhyphen"/>cular <hi>Grace ſingly,</hi> ſo it is no otherwiſe the
+<pb n="5" facs="tcp:93641:6"/>
+               <hi>Condition of the New Covenant</hi> than a hopeful <hi>Spring</hi> is <hi>Harveſt.</hi>
+            </p>
+            <p>To Cure thoſe dangerous Conceits of this kind, that are ſo rife, and have been imbi<g ref="char:EOLhyphen"/>bed ſo deep, we will take a view of the <hi>ſeveral parts</hi> of which <hi>Repentance</hi> doth con<g ref="char:EOLhyphen"/>ſiſt, and ſhew you that there is not any of them but what may be in them that periſh.</p>
+            <p>Repentance being ſuch <hi>an inward ſenſe of our ſins, as bringeth us to an acknowledgment of them, with grief for what is paſt, and pur<g ref="char:EOLhyphen"/>poſe to reform for the future,</hi> hath but theſe four things in it.</p>
+            <list>
+               <item>
+                  <hi>Conviction,</hi>
+               </item>
+               <item>
+                  <hi>Confeſſion,</hi>
+               </item>
+               <item>
+                  <hi>Humiliation,</hi> and</item>
+               <item>
+                  <hi>Good Reſolutions.</hi>
+               </item>
+            </list>
+            <p>Now there are not any of theſe but what have been in the Children of Perdition.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, As to <hi>Conviction:</hi> Tho' a ſort of Men have thought fit to ſet it out under the affected Title of the <hi>Pangs of the New Birth;</hi> and taught their followers to <hi>date their Con<g ref="char:EOLhyphen"/>verſion</hi> from the <hi>terrors</hi> of it: when it is only
+<pb n="6" facs="tcp:93641:7"/>an <hi>apprehenſion</hi> of our <hi>Guilt</hi> and <hi>Danger,</hi> it cannot in it ſelf be any <hi>Vertue</hi> at all, being but that we are meerly <hi>paſſive</hi> in. They who uſe ſtudied Arts to elude it, can no more prevent it, than they can the <hi>Cholick in their Bowels,</hi> or the <hi>Lighting</hi> flaſhing in their faces. When St. <hi>Paul</hi> reaſoned of <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs, and Temperance,</hi>
+               <note place="margin">Acts 24.25. John 8.9.</note> 
+               <hi>and Judgment to come, Felix</hi> could not help <hi>trembling;</hi> nor the <hi>Pha<g ref="char:EOLhyphen"/>riſees</hi> when the caſe was put home to them, being <hi>convicted of their own Conſciences.</hi> So that this may be, and we no more in a <hi>ſtate of Grace</hi> than either of theſe were.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The next part of it is <hi>Confeſſion,</hi> the hum<g ref="char:EOLhyphen"/>ble acknowledgment of our ſins unto God. This is a piece of Ingenuity that we are much encouraged to. <hi>He looketh upon men</hi> (ſaith <hi>Elihu</hi>) <hi>and if any ſay,</hi>
+               <note place="margin">Job 37.27.</note> 
+               <hi>I have ſinned, and perverted that which is right, and it profited me not; he will deliver his ſoul from going into the pit. Only acknowledge thine iniquity that thou haſt tranſgreſſed againſt the Lord</hi> (ſaith God in <hi>Jeremy</hi>) <hi>and I will not cauſe mine anger to reſt upon thee.</hi>
+               <note place="margin">Jer. 3.13.</note> 
+               <hi>If we confeſs our ſins</hi> (ſaith St. <hi>John</hi>) <hi>he is faithful and juſt to forgive us our ſins,</hi>
+               <note place="margin">1 John 9.</note> &amp;c. But can any
+<pb n="7" facs="tcp:93641:7"/>imagine that it is a <hi>bare Confeſſion</hi> that all theſe Promiſes belong to? No, by a Figure fami<g ref="char:EOLhyphen"/>liar to the Holy, as well as other Writings, it is only <hi>a part put for the whole,</hi> when ſuch <hi>glorious</hi> thing are ſpoken of it. The Event ſheweth there is <hi>more</hi> than ſo <hi>expected</hi> from the <hi>Sinner.</hi> If <hi>Confeſſion alone</hi> had been e<g ref="char:EOLhyphen"/>nough, <hi>Saul</hi> would have <hi>fared as well</hi> as <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> his <hi>Confeſſion</hi> was altogether as <hi>ample.</hi> When <hi>Nathan</hi> reproved <hi>David,</hi> his Anſwer was, <hi>I have ſinned againſt the Lord,</hi> 2 Sam. 12.13. When <hi>Samuel</hi> reproved <hi>Saul,</hi> he <hi>ſaid as much. Saul ſaid unto Samuel, I have ſinned, for I have tranſgreſſed the command<g ref="char:EOLhyphen"/>ment of the Lord,</hi> 1 Sam. 15.24. And yet tho' <hi>David</hi>'s <hi>ſin was done away, Saul</hi> (you know) <hi>was rejected.</hi> So little is this part al<g ref="char:EOLhyphen"/>ſo of <hi>Repentance</hi> to be relyed on.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> The Third is <hi>Humdiation</hi> under, and <hi>Sor<g ref="char:EOLhyphen"/>row</hi> for the ſins we have committed. This is a thing People have ſuch Opinion of as generally to fancy <hi>Repentance</hi> to be nothing elſe; ſo that if they find but ſomething of this in themſelves, they conclude they are <hi>ſafe,</hi> and <hi>all is well</hi> with them. But this is much to over-reckon alſo; 2 <hi>Cor.</hi> 7.10. the
+<pb n="8" facs="tcp:93641:8"/>Apoſtle informeth us, that <hi>godly ſorrow work<g ref="char:EOLhyphen"/>eth repentance unto life,</hi> &amp;c. It is a good begin<g ref="char:EOLhyphen"/>ning, and well managed may <hi>bring us to re<g ref="char:EOLhyphen"/>pentance unto life,</hi> but if ſelf is not to be ac<g ref="char:EOLhyphen"/>counted ſo. If it were, then <hi>Ahab</hi> repented unto life,<note place="margin">1 Kings 21 29.</note> for he <hi>humbled himſelf, and put on ſackcloth.</hi> If it were, the Hypocrites com<g ref="char:EOLhyphen"/>plained of in <hi>Iſaiah,</hi>
+               <note place="margin">Iſal. 58.5.</note> repented unto life, for <hi>they afflicted their ſouls, and ſpread aſhes un<g ref="char:EOLhyphen"/>der them.</hi> If it were <hi>Judas</hi> himſelf repen<g ref="char:EOLhyphen"/>ted unto life, for he was ſo overwhelmed with ſorrow for what he had done, that he <hi>burſt aſunder in the midst.</hi>
+               <note place="margin">Acts 1.18.</note> So ineffectual may this <hi>part</hi> of <hi>Repentance</hi> be alſo, ſorrow for our ſins.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> The laſt is <hi>Reſolution of Amendment.</hi> This looketh beſt of any, and if Men could be ſure they ſhould keep them, when they make them, they might have grounds to hope, that he who <hi>calleth the things that are not, as if they were</hi> would graciouſly accept them. But (alas!) what are moſt Mens Reſolu<g ref="char:EOLhyphen"/>tions of this kind? like the haſty Bloſſoms produced by ſome unexpected warmth of Weather, they adorn the Tree with their in<g ref="char:EOLhyphen"/>viting Colours, and are promiſing to the Eye,
+<pb n="9" facs="tcp:93641:8"/>but not one in a hundred of them cometh to good, but drop to the ground before they knit, and fruſtrate Expectation. Such are moſt of our Reſolutions, but caſual Embryo's of incomplete velleities, that frequently be<g ref="char:EOLhyphen"/>fore they are any thing more, miſcarry and prove Abortive; dye before they could well be ſaid to live. Experience ſadly convinceth us we can no more depend on them than on the <hi>Morning-Cloud</hi> for <hi>Rain.</hi>
+            </p>
+            <p>It is a miſtake that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſigni<g ref="char:EOLhyphen"/>fieth a change of Mind, doth always im<g ref="char:EOLhyphen"/>port a Saving Repentance: The word is uſed by the Septuagint, <hi>Prov.</hi> 14.15. in the ſame ſenſe with <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which is allowed to note but the fruitleſs one of <hi>Reprobates.</hi> There may be, too often is, a preſent <hi>Change of Mind</hi> that <hi>proveth no better;</hi> and therefore the Holy Ghoſt joyneth other words with it, to explain and adjuſt it. So St. <hi>Peter, Acts</hi> 3.19. <hi>Repent and be converted, that your ſins may be blotted out.</hi> And St. <hi>Paul, Acts</hi> 26.20. <hi>Repent and turn unto God,</hi> to ſhew that it is not enough to have <hi>better Reſolutions,</hi> un<g ref="char:EOLhyphen"/>leſs as God giveth ſpace and Opportunity we put them into <hi>Practice.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:93641:9"/>
+This is ſufficient to be ſpoken to the firſt Propoſition, That bare <hi>Repentance</hi> without <hi>Fruits</hi> is not all that is required of us in or<g ref="char:EOLhyphen"/>der to our <hi>Pardon.</hi> I proceed to the</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> Second, That we may bring forth ſeveral <hi>Fruits</hi> of <hi>Repentance,</hi> and yet not thoſe that are <hi>meet</hi> neither. That was the caſe of theſe here ſpoken to in the Text, the <hi>Phariſees and Sadducees.</hi>
+            </p>
+            <p>The latter of theſe the <hi>Sadducees,</hi> tho' they denyed that great <hi>Article of Faith,</hi> and motive to <hi>Repentance,</hi> the <hi>Immortality of the Soul,</hi> and conſequently <hi>its Rewards</hi> or <hi>Pu<g ref="char:EOLhyphen"/>niſhments</hi> in another Life; yet they were not <hi>direct Atheiſts,</hi> but had ſome <hi>belief and fear</hi> of God with them notwithſtanding. They received the <hi>Law of Moſes,</hi> and were ſo per<g ref="char:EOLhyphen"/>ſwaded of the certainty of the <hi>Temporal Bleſ<g ref="char:EOLhyphen"/>ſings and Curſes</hi> written in it, as made them regular <hi>Obſervers</hi> of the <hi>letter</hi> of it. Some of the High Prieſts themſelves, <hi>Hircanus, Ariſtobulus, Alexander,</hi> &amp;c. were of <hi>this Sect,</hi> and <hi>many</hi> of them are ſaid, <hi>ver.</hi> 7. to be ſo wrought on by the <hi>Preaching</hi> of <hi>John,</hi> as to <hi>come to his Baptiſm, confeſſing their ſins.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:93641:9"/>
+The other, the <hi>Phariſees,</hi> St. <hi>Paul,</hi> who underſtood them well (having himſelf been one of them) <hi>Acts</hi> 26.5. calleth <hi>the ſtraiteſt Sect of our Religion.</hi> They were more <hi>pre<g ref="char:EOLhyphen"/>ciſe</hi> than any of the reſt. <hi>Joſephus</hi> ſaith they did nearly reſemble the <hi>Stoicks</hi> among the <hi>Greeks,</hi> who had the higheſt Eſteem of any of their Philoſophers, for the Severity of their way of Living. The Common People had ſuch an Opinion of their Sanctity, that it was <hi>Proverbially</hi> ſaid among them, That if but two Men in the World went to Hea<g ref="char:EOLhyphen"/>ven, one of them muſt be a <hi>Phareſee.</hi>
+            </p>
+            <p>And yet for all this, though <hi>others thought</hi> them ſo very <hi>Righteous,</hi> though they <hi>truſted in themſelves that they were righteous,</hi> they are here called <hi>a Generation of Vipers.</hi> That which <hi>was ſo highly eſteemed with men, was but an abomination in the ſight of God;</hi> and if we conſider it, we ſhall find Reaſon for it.</p>
+            <p>I will not inſiſt upon what our bleſſed Lord ſo oft ubraideth them with, the <hi>vile</hi> and <hi>ſelfiſh,</hi> the <hi>poultry</hi> and <hi>hypocritical ends</hi> they had in all their <hi>Religious Performances,</hi> namely, to make themſelves <hi>Popular,</hi> and ſerve their <hi>Secular In<g ref="char:EOLhyphen"/>tereſts;</hi> tho' this alone muſt render the <hi>beſt</hi> things we can <hi>do odious</hi> and <hi>loathſome</hi> to him
+<pb n="12" facs="tcp:93641:10"/>
+               <hi>who ſeeth not as man ſeeth,</hi> but <hi>requireth truth in the inward parts:</hi> Yet becauſe it is not ſo much their <hi>aims</hi> and <hi>intentions</hi> in <hi>doing</hi> them, as the <hi>things</hi> themſelves which they <hi>did,</hi> that ſeem here reflected on, I ſhall confine my Diſcourſe to them, and mark out <hi>two</hi> conſi<g ref="char:EOLhyphen"/>derable <hi>defects</hi> in them.</p>
+            <list>
+               <item>
+                  <hi>First,</hi> Tho' they <hi>brought forth ſome Fruits,</hi> they were but <hi>ſome,</hi> not <hi>all</hi> that were <hi>required</hi> of them.</item>
+               <item>
+                  <hi>Secondly,</hi> Tho' they <hi>brought forth ſome Fruits,</hi> they were but <hi>coarſe</hi> and <hi>mean,</hi> ſuch as were of <hi>leaſt value.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>First,</hi> Tho' they <hi>brought forth ſome Fruits,</hi> they were but <hi>ſome,</hi> not <hi>all</hi> that were <hi>required</hi> of them. <hi>One</hi> part of their <hi>Duty</hi> was <hi>taken,</hi> and <hi>another left; one regarded,</hi> and <hi>another re<g ref="char:EOLhyphen"/>jected,</hi> according as it was in <hi>vogue,</hi> or ſuited with their <hi>inclinations.</hi> Inſtead of an <hi>univer<g ref="char:EOLhyphen"/>ſal,</hi> they yielded unto God a <hi>partial Obedience;</hi> flattering themſelves that their <hi>extraordinary niceneſs</hi> about ſome <hi>particular Precepts,</hi> ſhould <hi>excuſe</hi> their <hi>neglect,</hi> and <hi>make amends</hi> for their <hi>violation</hi> of <hi>others.</hi> They <hi>preſumed</hi> that their <hi>Devotion</hi> ſhould <hi>commute</hi> for their <hi>Injuſtice,</hi>
+               <pb n="13" facs="tcp:93641:10"/>and that becauſe they were <hi>temperate</hi> in <hi>eating</hi> and <hi>drinking,</hi> they ſhould not be <hi>condemned</hi> for being <hi>covetous</hi> or <hi>malicious.</hi> Being truly <hi>zealous</hi> againſt <hi>Idolatry,</hi> they were not con<g ref="char:EOLhyphen"/>cerned for their <hi>Lying, Pride,</hi> or <hi>Envy;</hi> and as long as they kept themſelves free from <hi>groſs carnal ſins,</hi> there was no convincing them but that they were <hi>the Children of God,</hi> though they abounded in all ſorts of <hi>Spiritual.</hi>
+            </p>
+            <p>But <hi>if ye offer the lame for Sacrifice, is it not evil?</hi> St. <hi>James</hi> informeth us, <hi>Chap.</hi> 2.10. who<g ref="char:EOLhyphen"/>ſoever ſhall keep the whole Law <hi>(beſides)</hi> and yet offend in one point, that is, <hi>wilfully</hi> and <hi>habitually,</hi> (let the <hi>Inſtance</hi> be what it will) <hi>he is guilty of all:</hi> It is not upon <hi>God's</hi> ac<g ref="char:EOLhyphen"/>count, but his <hi>own,</hi> from <hi>Conſcience</hi> towards <hi>him,</hi> but <hi>reſpect</hi> to <hi>himſelf,</hi> that <hi>ſuch</hi> a one ſticketh at the reſt of them. It muſt be gran<g ref="char:EOLhyphen"/>ted, we cannot, when we have done our ut<g ref="char:EOLhyphen"/>moſt, <hi>actually</hi> keep <hi>all,</hi> but if we do not our ſin<g ref="char:EOLhyphen"/>cere endeavour <hi>conſcientiouſly</hi> to keep <hi>all,</hi> we are but <hi>counterfeit</hi> and <hi>pretended Penitents.</hi> That is one fault in the <hi>Fruits</hi> which <hi>theſe brought forth;</hi> tho' they <hi>brought forth ſome,</hi> they were but <hi>ſome,</hi> not <hi>all</hi> that were <hi>required</hi> of them.</p>
+            <p n="2">2. The other is, That though they <hi>brought forth ſome Fruits,</hi> they were but <hi>coarſe</hi> and
+<pb n="14" facs="tcp:93641:11"/>
+               <hi>mean</hi> ones, ſuch as were of <hi>leaſt value.</hi> All the <hi>Commandments</hi> of God are <hi>equal</hi> in re<g ref="char:EOLhyphen"/>ſpect of their <hi>Authority,</hi> but they are not ſo, in reſpect of their <hi>Nature:</hi> So, <hi>ſome</hi> are of far more <hi>importance</hi> than <hi>others;</hi> and their uſual manner was to <hi>reſt</hi> in the <hi>performance</hi> of thoſe that were leaſt <hi>material.</hi> Thus our Sa<g ref="char:EOLhyphen"/>viour deſcribeth them to themſelves, <hi>Matth.</hi> 23. <hi>Ye pay tythe of mint, and annice, and cummin, but omit the weightier matters of the Law, mer<g ref="char:EOLhyphen"/>cy, and judgment, and faith.</hi>
+            </p>
+            <p>They did not <hi>diſtinguiſh</hi> as they ought, be<g ref="char:EOLhyphen"/>tween <hi>Natural Duties,</hi> and ſuch as are only <hi>Relative;</hi> between the <hi>Eſſential</hi> parts of <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> and ſuch as are but <hi>Inſtrumental;</hi> be<g ref="char:EOLhyphen"/>tween the <hi>power of Godlineſs,</hi> and the empty <hi>form</hi> of it. Accordingly, they were <hi>punctual</hi> in <hi>faſting twice in the week,</hi> and uſed their <hi>Bodies</hi> hardly, but minded not ſo much the <hi>mortifying</hi> their <hi>inordinate Affections,</hi> which were the <hi>Springs</hi> of all their <hi>outward actions.</hi> They daily read ſome <hi>portion of the Law,</hi> and got great part of it <hi>without book,</hi> but they did not make Conſcience of <hi>keeping the Com<g ref="char:EOLhyphen"/>mandments of if,</hi> but made them void by their <hi>own Traditions.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:93641:11"/>
+They were ſtrict Obſervers of the <hi>Sabbath-day,</hi> ſo as to do no <hi>manner of work</hi> on it; but their <hi>Tongues</hi> did not reſt from <hi>ſlandering</hi> their <hi>Neighbours</hi> on it, nor their <hi>Thoughts</hi> from lay<g ref="char:EOLhyphen"/>ing <hi>Snares</hi> for them.</p>
+            <p>I would not be underſtood as if <hi>theſe</hi> things were deſpicable in themſelves, they miniſter to Piety, and ought to be encouraged, but only when the <hi>other are left undone</hi> (to let you know) then they are no <hi>where</hi> more to be prized, than they were <hi>here.</hi> The moſt ſpe<g ref="char:EOLhyphen"/>cious of them all are but ſo many empty <hi>Shells</hi> without their <hi>Kernels;</hi> like that Offering (men<g ref="char:EOLhyphen"/>tioned by <hi>Pauſanias</hi>) to <hi>Ceres Phrygalienſis,</hi> not the <hi>Honey</hi> of their <hi>Bees,</hi> but only the <hi>Wax,</hi> the <hi>dry</hi> and <hi>taſtleſs</hi> part of their <hi>La<g ref="char:EOLhyphen"/>bours.</hi> They are all <hi>conſiſtent</hi> with a <hi>Carnal Mind</hi> and <hi>raigning Sins,</hi> with a <hi>hard heart</hi> and a <hi>wicked life;</hi> the <hi>unjuſt</hi> and the <hi>filthy,</hi> the <hi>ſen<g ref="char:EOLhyphen"/>ſual</hi> and the <hi>uncharitable</hi> may <hi>abound</hi> in them, and yet be <hi>unjuſt</hi> and <hi>filthy, ſenſual</hi> and <hi>un<g ref="char:EOLhyphen"/>charitable</hi> ſtill. They who would approve themſelves <hi>Penitents</hi> indeed, muſt <hi>bring forth Fruits</hi> of a more <hi>ſubſtantial excellent kind. Theſe were not,</hi> but they muſt <hi>bring forth fruits</hi> that are <hi>meet for Repentance.</hi> And this is</p>
+            <p>The laſt <hi>Propoſition</hi> I have to ſpeak to;<note place="margin">
+                  <hi>Prop.</hi> 3.</note>
+               <pb n="16" facs="tcp:93641:12"/>That if we would have our <hi>Repentance</hi> ac<g ref="char:EOLhyphen"/>cepted with God, we muſt not content our ſelves with any <hi>Fruits,</hi> but ſuch as properly <hi>manifeſt</hi> the <hi>Reality</hi> and <hi>Ingenuity</hi> of it, Fruits indeed <hi>meet</hi> for Repentance. This we can<g ref="char:EOLhyphen"/>not but grant in the <hi>general;</hi> but leaſt any of us ſhould <hi>flatter</hi> our ſelves in the <hi>caſe,</hi> as theſe <hi>conceited</hi> ones here did, and think thoſe <hi>ſo</hi> that <hi>are not,</hi> beſides what may be gathered from that which hath been already ſpoken, it will be convenient for the clearer explication of the <hi>Phraſe</hi> to acquaint you, that there is a two-fold <hi>meetneſs</hi> we are to have regard to in the <hi>Fruits of our Repentance.</hi>
+            </p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> Firſt, That they be <hi>meet</hi> with reſpect to our <hi>ſelves.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, That they be <hi>meet</hi> with reſpect to <hi>others.</hi>
+               </item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> They muſt be <hi>meet</hi> with reſpect to our ſelves; and that two ways: <hi>meet</hi> with reſpect to our lives <hi>paſt,</hi> and <hi>meet</hi> alſo with reſpect to our lives for the <hi>future.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The <hi>Fruits of our Repentance</hi> ſhould be <hi>meet</hi> with reference to our <hi>lives paſt.</hi> Our <hi>Humiliation</hi> bearing ſome <hi>proportion</hi> to the <hi>ſins</hi>
+               <pb n="17" facs="tcp:93641:12"/>we have been guilty of. When our bleſſed Lord, <hi>Luke</hi> 15.7. ſpeaketh of <hi>juſt</hi> perſons that <hi>need no Repentance,</hi> we are not to under<g ref="char:EOLhyphen"/>ſtand it abſolutely but in a <hi>qualified</hi> ſenſe: There are none ſo juſt but need <hi>ſome</hi> (the Righteous falleth ſeven times a day) but they who from their <hi>Youth</hi> have lived <hi>vertuouſly</hi> and <hi>piouſly,</hi> without being ſtained with any <hi>foul</hi> and <hi>heinous</hi> Crime, are ſaid <hi>comparatively not to need Repentance;</hi> that is, not <hi>ſuch</hi> a one, ſo <hi>ſharp</hi> and <hi>ſignal,</hi> ſo <hi>deep</hi> and <hi>grievous,</hi> as they who have been <hi>extravagant</hi> and <hi>ſcanda<g ref="char:EOLhyphen"/>lous ſinners</hi> are obliged to; but where <hi>Tranſ<g ref="char:EOLhyphen"/>greſſion</hi> hath <hi>exceeded,</hi> there it is <hi>meet</hi> that the <hi>Repentance</hi> ſhould exceed alſo.</p>
+            <p>If it be <hi>true,</hi> it is not to be imagined how it can be otherwiſe. You may as well ſuppoſe a Man to be no more concerned for a dange<g ref="char:EOLhyphen"/>rous Wound with a Sword, than for a ſlight Scratch with a Pin, as that a true <hi>Penitent</hi> ſhould be no more diſturbed for <hi>crying</hi> and <hi>preſumptu<g ref="char:EOLhyphen"/>ous ſins,</hi> than for ſins of meer <hi>ſurprize</hi> and ordinary <hi>frailties.</hi> It is obſervable that when <hi>David</hi> had fallen into <hi>the great tranſgreſſion,</hi> though a <hi>Prophet</hi> from God had expreſly told him, <hi>that his ſin was done away;</hi> yet for all that, he <hi>roared for the very diſquietneſs of his
+<pb n="18" facs="tcp:93641:13"/>heart, and his bones were conſumed within him, he mourned all the day long like a dove, and watered his Couch with his tear; he chaſtned himſelf with faſting, and eat aſhes like bread.</hi> And if he did this who was ſure of his Par<g ref="char:EOLhyphen"/>don, what ſhall we think of them who have ſinned as heinouſly, and yet do little or no<g ref="char:EOLhyphen"/>thing in this kind, tho' they are not ſure? It is true, Penitential Sorrow is not ſeated in the <hi>Affections</hi> directly, but in the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing;</hi> and is rather <hi>Hatred</hi> than <hi>Grief.</hi> So that if <hi>this</hi> appears in the <hi>rational</hi> Appetite, that we loath and abhor our evil ways, it is not abſolutely neceſſary it ſhould be in the <hi>ſenſible.</hi> But when in other caſes <hi>that</hi> hath ſo general an influence upon <hi>this,</hi> it is <hi>ſuſpicious</hi> that the <hi>heart</hi> is not ſo throughly affected as it ought, where it hath no diſcernable effects upon the <hi>outward man.</hi> They who are conſcious to themſelves of any <hi>ſcarlet ſins,</hi> of any <hi>flagrant</hi> and <hi>enormous vices,</hi> ought to conſider that this is one <hi>meetneſs</hi> in the <hi>Fruits</hi> of their <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> they ſhould judge themſelves by, whether they have a <hi>meetneſs</hi> with reſpect to their <hi>lives paſt.</hi>
+            </p>
+            <p>
+               <pb n="19" facs="tcp:93641:13"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The other is, That they be <hi>meet</hi> with reſpect to our <hi>Lives for the future,</hi> becoming ſuch as have <hi>really repented</hi> them of their <hi>e<g ref="char:EOLhyphen"/>vil ways.</hi> That is, there muſt be a <hi>putting off the former Converſation,</hi> and we muſt be <hi>new Creatures.</hi> The ſevereſt ſignifications of <hi>trouble</hi> for our <hi>ſins past,</hi> if we <hi>forſake</hi> them not upon it, St. <hi>Paul</hi> appoſitely calleth<note n="*" place="margin">1 Tim. 4.8.</note> 
+               <hi>bo<g ref="char:EOLhyphen"/>dily Exerciſe,</hi> telling us, <hi>it profitteth little;</hi> and accordingly we are to eſteem of it. It is not that which <hi>moſt vexeth</hi> us, but that which <hi>moſt pleaſeth God,</hi> we are chiefly to take care of in our <hi>Repentance.</hi> Now he looketh upon all that we do, without <hi>a<g ref="char:EOLhyphen"/>mendment;</hi> all <hi>Penances,</hi> all <hi>revenge upon our ſelves,</hi> but as <hi>Self-deceit</hi> and <hi>Superſtition.</hi> He that will drink nothing but Water for ſo long time, becauſe he hath been <hi>intemperate,</hi> and will make a <hi>Beaſt</hi> of himſelf again, next time he meeteth with his Comrades; he that giveth ſo much <hi>Money</hi> to a <hi>pious</hi> uſe as a <hi>fine</hi> upon himſelf for his <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs,</hi> and <hi>turneth again to folly</hi> upon ſight of the <hi>ſtrange Women;</hi> hath rather the <hi>Ague</hi> of <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> than the <hi>Grace:</hi> Such a one may be ſaid to have <hi>fits</hi> of <hi>Repentance,</hi> but not the <hi>fruits</hi> of it: They are firm and laſting.</p>
+            <p>
+               <pb n="20" facs="tcp:93641:14"/>
+To have theſe <hi>meet,</hi> it is not enough that there be an <hi>utter forſaking</hi> of the <hi>ſin,</hi> but there ought to be likewiſe a careful exerciſe of the oppoſite <hi>Grace</hi> to it. It is not e<g ref="char:EOLhyphen"/>nough for the <hi>profane</hi> man, the he talk no more <hi>corruptly</hi> and <hi>atheiſtically,</hi> his commu<g ref="char:EOLhyphen"/>nication muſt be <hi>good to the uſe of edifying:</hi> for the <hi>licentious</hi> man, that he leave off his <hi>wildneſs</hi> and <hi>debaucheries,</hi> he muſt be an <hi>ex<g ref="char:EOLhyphen"/>ample</hi> of <hi>gravity</hi> and <hi>ſobriety.</hi> So St. <hi>Paul</hi> ad<g ref="char:EOLhyphen"/>moniſheth the converted Romans, Chap. 6.19. <hi>As ye have yielded your Members ſervants to uncleanneſs, and to iniquity unto iniquity, even ſo now yield your Members ſervants to righ<g ref="char:EOLhyphen"/>teouſneſs unto holineſs.</hi> That <hi>thence forward</hi> they would be as eminently <hi>vertuous,</hi> as <hi>be<g ref="char:EOLhyphen"/>fore</hi> they had been <hi>looſe</hi> and <hi>vicious.</hi> This is <hi>meet</hi> in the <hi>fruits</hi> of our <hi>Repentance</hi> as to <hi>our ſelves.</hi>
+            </p>
+            <p>But this is not all, the fruits of it muſt be <hi>meet</hi> with reſpect to <hi>others</hi> alſo; as many as have been any ways wronged or injured by our ſins.</p>
+            <p>Beſides the diſhonour done to God by them, ſometimes mens ſins are highly <hi>pre<g ref="char:EOLhyphen"/>judicial</hi> and <hi>miſchievous</hi> to their <hi>Neighbours.</hi> And where it hath been ſo, the <hi>fruits</hi> of <hi>Re<g ref="char:EOLhyphen"/>pentance</hi>
+               <pb n="21" facs="tcp:93641:14"/>are not <hi>meet,</hi> except they extend to them too, according as they have been dam<g ref="char:EOLhyphen"/>nified by them, either</p>
+            <p>In their <hi>Outward</hi> man, or Their <hi>Inward.</hi>
+            </p>
+            <p>Firſt, If they have been damnified by them in their <hi>outward</hi> man. Thus he who hath ta<g ref="char:EOLhyphen"/>ken away the <hi>Life</hi> of another, in <hi>Duel</hi> or <hi>heat of Blood;</hi> muſt not think he <hi>repenteth</hi> by <hi>lamenting</hi> and being <hi>ſorry</hi> for it, (tho he can make no <hi>ſatisfaction</hi> to the <hi>perſon himſelf,</hi> whom he hath <hi>thrust</hi> into the other World in ſo unbeſeeming, ſo dangerous a <hi>poſture</hi>) it is <hi>meet</hi> he be ſollicious to make the <hi>beſt</hi> and moſt <hi>proper</hi> he can, to <hi>that of</hi> him which is <hi>left,</hi> his <hi>Relatives</hi> that ſurvive him. He who by <hi>defiling</hi> the <hi>Bed</hi> of another, hath impoſed a ſpurious Off-ſpring upon his <hi>Fami<g ref="char:EOLhyphen"/>ly</hi> and <hi>Fortunes;</hi> muſt not think he <hi>repent<g ref="char:EOLhyphen"/>eth</hi> by being ſome times <hi>troubled in mind</hi> a<g ref="char:EOLhyphen"/>bout it, but doth nothing to prevent the ſubſequent Evils: it is <hi>meet,</hi> if it be in his power, ſo to order it that none of the <hi>law<g ref="char:EOLhyphen"/>ful</hi> Iſſue receive <hi>damage</hi> by it. He who hath <hi>defrauded</hi> another by <hi>artifice in dealing,</hi> or a<g ref="char:EOLhyphen"/>buſing
+<pb n="22" facs="tcp:93641:15"/>a <hi>truſt</hi> repoſed in him, muſt not think he hath <hi>repented,</hi> becauſe he hath <hi>asked God forgiveneſs</hi> for it, ſo long as he de<g ref="char:EOLhyphen"/>taineth the <hi>gains of unrighteouſneſs</hi> in his hands; it is <hi>meet</hi> (if he be able) that he make him actual <hi>reſtitution.</hi> He who hath <hi>defamed</hi> a<g ref="char:EOLhyphen"/>nother by <hi>calumniating</hi> and <hi>miſrepreſenting</hi> him, muſt not think he <hi>repenteth,</hi> by holding <hi>his</hi> tongue for the future: it is <hi>meet,</hi> that (whenever he judgeth it may be ſerviceable to him) by <hi>acknowledging</hi> the <hi>groundleſneſs</hi> of it, he make him <hi>reparation.</hi> There is no ſpeaking to all the particular <hi>caſes</hi> in this <hi>kind,</hi> they are ſo <hi>many</hi> and <hi>various;</hi> let it ſuffice to ſay, That tho where the <hi>offence</hi> hath been <hi>only</hi> againſt <hi>God,</hi> to bring forth <hi>fruits</hi> unto him, is all that is required: yet where it is in any kind againſt our <hi>brother</hi> too, there a conſideration is to be had of <hi>him</hi> al<g ref="char:EOLhyphen"/>ſo, or our <hi>repentance</hi> bringeth not forth <hi>meet fruits.</hi> As it muſt be thus in our <hi>repentance</hi> of <hi>ſins</hi> againſt the <hi>Temporal</hi> good of others. So it muſt be</p>
+            <p>Secondly, In ſuch <hi>ſins</hi> as are againſt their <hi>eternal</hi> good; prejudicial to their <hi>immortal precious Souls.</hi> Such is every one guilty of, who hath been the unhappy inſtrument of
+<pb n="23" facs="tcp:93641:15"/>
+               <hi>corrupting,</hi> and <hi>debauching</hi> any other perſon. It is not for any to make light of this, be<g ref="char:EOLhyphen"/>cauſe it was in their own choice, whether they would hearken to, and be perſwaded by them, or not. The <hi>Devil</hi> hath ſo much to plead for his <hi>tempting us;</hi> and yet he will be <hi>tormented</hi> for it, not withſtanding that: and ſo will <hi>men</hi> too, who have been the means of <hi>enticing</hi> and <hi>turning</hi> any from the <hi>ways of righteouſneſs,</hi> if they endeavour not what they can to <hi>reclaim</hi> them they have ſo <hi>perverted,</hi> and prevent the fatal <hi>Conſequences</hi> of it. The <hi>Laſcivious</hi> muſt not be ſatisfied with <hi>repent<g ref="char:EOLhyphen"/>ing himſelf</hi> of his <hi>laſciviouſneſs,</hi> but muſt ſeek to bring the <hi>unhappy frail one</hi> his importunity prevailed with to <hi>ſin with him,</hi> to <hi>repent too.</hi> The <hi>profane</hi> one muſt not think it ſufficient to <hi>recover himſelf out of the Snare of the De<g ref="char:EOLhyphen"/>vil,</hi> but muſt ſtrive to <hi>recover</hi> ſuch as he hath <hi>poiſoned</hi> with his <hi>looſe</hi> and <hi>wretched Prin<g ref="char:EOLhyphen"/>ciples</hi> out of the <hi>Snare of the Devil</hi> alſo. Was it not a cutting Queſtion of God to <hi>Cain, Where is</hi> Abel <hi>thy Brother,</hi> when it was he that murthered him? but how much deep<g ref="char:EOLhyphen"/>er muſt it pierce, to be asked at laſt, Where is thy <hi>Companion?</hi> whom thou haſt been the barbarous cauſe of depriving, not of <hi>temporal</hi>
+               <pb n="24" facs="tcp:93641:16"/>life, but of <hi>eternal!</hi> How knoweſt thou (O man!) but thy good counſel yet may ſave them? it being likely to leave a greater im<g ref="char:EOLhyphen"/>preſſion on them, than that of any other perſon. And thinkeſt thou not thy ſelf con<g ref="char:EOLhyphen"/>cerned to try?</p>
+            <p>This is ſo <hi>meet,</hi> that if it were not <hi>duty,</hi> one would think meer <hi>ingenuity</hi> and <hi>good na<g ref="char:EOLhyphen"/>ture</hi> ſhould be enough to prompt to it. The rich man is repreſented having ſo much cha<g ref="char:EOLhyphen"/>rity in <hi>Hell,</hi> as to deſire his <hi>Brethren</hi> might be warned that they <hi>came not into that place of torment:</hi> and would it not look monſtrous to find ſo little on <hi>Earth,</hi> in any who have endangered the <hi>Souls</hi> of them thy pretended particular uncommon kindneſs for, to ſuffer them to go on in the way that leadeth to de<g ref="char:EOLhyphen"/>ſtruction, which they themſelves enticed them into, without caring what becometh of them? Surely as hath been the <hi>tranſgreſſion,</hi> ſo ought to be the <hi>repentance:</hi> where the <hi>tranſgreſſion</hi> hath reached to <hi>others</hi> to <hi>pollute,</hi> there the <hi>repentance</hi> muſt reach to them alſo, to <hi>inſtruct, perſwade,</hi> and <hi>reform</hi> them.</p>
+            <p>I conclude with this <hi>one</hi> Inference from that which hath been ſpoken. When there are ſo many <hi>fruits meet for repentance,</hi> relating
+<pb n="25" facs="tcp:93641:16"/>both to <hi>our ſelves</hi> and <hi>others,</hi> whoever put it off to the <hi>cloſe</hi> of their lives, muſt be guilty of unanſwerable <hi>careleſneſs</hi> and <hi>preſumption. Fruits</hi> require <hi>time</hi> to bring them to <hi>maturity,</hi> and can all the <hi>fruits</hi> of <hi>repentance,</hi> (which are no fewer than you have heard) in our <hi>laſt ſickneſs,</hi> as in a <hi>hot bed,</hi> be <hi>raiſed</hi> and <hi>ri<g ref="char:EOLhyphen"/>pened</hi> in a few days, or perhaps but hours? Who that hath any ſenſe of an immortal ſtate, would venture it upon ſuch unlikelihoods? Can the <hi>Temple of the Holy Ghoſt</hi> be <hi>built</hi> in a <hi>day?</hi> If the <hi>fruits of repentance</hi> be not only a <hi>ſorrowful looking back</hi> upon our <hi>lives past,</hi> but a ſincere <hi>living well</hi> for the time to come, how <hi>abſurd</hi> as well as <hi>deſperate</hi> is it, for any to defer it, while they perceive they cannot live!</p>
+            <p>Men flatter themſelves with the Example of the <hi>Thief upon the Croſs,</hi> and the <hi>Labour<g ref="char:EOLhyphen"/>ers</hi> that came in at the <hi>laſt hour;</hi> both which were never <hi>called before,</hi> and ſo are not <hi>our caſe:</hi> but conſider not that of the <hi>fooliſh Vir<g ref="char:EOLhyphen"/>gins,</hi> which is. The Parable acquainteth us, with their <hi>fear</hi> and <hi>ſorrow,</hi> their <hi>diligence</hi> and <hi>deſire,</hi> their <hi>great cry,</hi> and <hi>running up and down,</hi> their <hi>begging of oyl,</hi> and their <hi>going out to buy,</hi> when the <hi>Bridegroom</hi> was juſt on
+<pb n="26" facs="tcp:93641:17"/>
+               <hi>coming;</hi> all that could be done in <hi>ſo ſhort a ſpace:</hi> And telleth us withal, the <hi>no effect</hi> of it: That when they came to enter, they had <hi>ſtayed</hi> too long, <hi>the door was ſhut</hi> upon them.</p>
+            <p>It is not to be denyed, but that God can do <hi>Miracles of Mercy,</hi> as well as <hi>Miracles of Power;</hi> but why ſhould he that has a <hi>Soul to ſave</hi> run ſo <hi>bold,</hi> ſo <hi>needleſs</hi> a <hi>hazard,</hi> to have nothing elſe to depend upon?</p>
+            <p>Having been too long to preſs this fur<g ref="char:EOLhyphen"/>ther, I ſhall end with a paſſage of St. <hi>Augu<g ref="char:EOLhyphen"/>ſtine,</hi> containing his Opinion of it. <q>A faith<g ref="char:EOLhyphen"/>ful Man <hi>(ſaith he)</hi> living well,<note place="margin">
+                     <hi>Hom.</hi> 41.</note> goeth hence ſecurely: A wicked Man that Repenteth, and afterwards liveth well, goeth hence ſe<g ref="char:EOLhyphen"/>curely: He that Repenteth not while he is going hence, <hi>ſi ſecurus hinc exit ego non ſum ſecurus,</hi> &amp;c. Do I ſay he ſhall be damned? I do not ſay it. Do I ſay he ſhall be ſaved? I do not ſay it. I Judge not, I Promiſe not, I Know not. Would you free your Souls from doubt? Would you avoid that which is uncertain? Repent before that day overtake you. Then you may have good Reaſon to believe you are ſincere in it, be<g ref="char:EOLhyphen"/>cauſe you leave off your ſins, when you might enjoy them. But if you only re<g ref="char:EOLhyphen"/>nounce
+<pb n="27" facs="tcp:93641:17"/>them, when you can no longer en<g ref="char:EOLhyphen"/>joy them, you cannot ſo properly be ſaid to leave your ſins, as your ſins to leave you.</q>
+            </p>
+            <p>God Almighty grant, that every one of us may timely conſider of it before the <hi>Ax be laid to our Root. For as the Tree falleth ſo ſhall it lye.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
